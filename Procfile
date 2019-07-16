@@ -1,1 +1,1 @@
-web: gunicorn mtr8bune.wsgi --log-file -
+web: gunicorn tribune.wsgi --log-file -
